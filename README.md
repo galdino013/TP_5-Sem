@@ -27,7 +27,7 @@ O script em Shell proporciona uma interface intuitiva e eficiente, permitindo qu
    
 2. **Inserção do Código:**
 
-   Copie o código do script descrito na próxima seção e cole no editor de texto.
+   Copie o código do script e cole no editor de texto.
 
    Salve o arquivo pressionando `Ctrl + O` e saia do editor com `Ctrl + X`.
 
